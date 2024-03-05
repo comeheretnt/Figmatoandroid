@@ -1,0 +1,119 @@
+<HorizontalScrollView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="match_parent" android:layout_height="wrap_content" >
+	<!-- 
+	/*
+	 *	This content is generated from the API File Info.
+	 *	(Alt+Shift+Ctrl+I).
+	 *
+	 *	@desc 		
+	 *	@file 		android_small___1
+	 *	@date 		Tuesday 05th of March 2024 12:36:13 AM
+	 *	@title 		Page 1
+	 *	@author 	
+	 *	@keywords 	
+	 *	@generator 	Export Kit v1.3.figma
+	 *
+	 */
+	-->
+	<ScrollView android:id="@+id/android_small___1" 
+		android:layout_width="wrap_content" 
+		android:layout_height="match_parent" >
+
+		<RelativeLayout android:id="@+id/content_container" 
+			android:layout_width="wrap_content" 
+			android:layout_height="wrap_content" >
+
+
+
+			<RelativeLayout android:id="@+id/page_android_small___1_ek1"
+				android:layout_marginTop="0dp"
+				android:layout_marginStart="0dp"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				>
+
+				<View
+					android:id="@+id/_bg__android_small___1_ek2"
+					android:layout_width="410dp"
+					android:layout_height="800dp"
+					android:layout_marginStart="0dp"
+					android:layout_marginTop="0dp"
+					android:background="@drawable/_bg__android_small___1_ek2_shape" />
+
+				<View   android:id="@+id/rectangle_1"
+					android:background="@drawable/rectangle_1_shape"
+					 android:layout_marginStart="64dp"
+					android:layout_marginTop="223dp"
+					android:layout_width="266dp"
+					android:layout_height="38dp" />
+
+				<View   android:id="@+id/rectangle_2"
+					android:background="@drawable/rectangle_2_shape"
+					 android:layout_marginStart="64dp"
+					android:layout_marginTop="301dp"
+					android:layout_width="266dp"
+					android:layout_height="38dp" />
+
+				<TextView
+					android:id="@+id/tk_"
+					android:layout_width="98dp"
+					android:layout_height="32dp"
+					android:layout_marginLeft="8dp"
+					android:layout_marginTop="233dp"
+					android:text="@string/tk__string"
+					android:textColor="@color/tk__color"
+					android:textSize="30sp"
+					android:textStyle="bold" />
+
+				<TextView
+					android:id="@+id/mk_"
+					android:layout_width="98dp"
+					android:layout_height="32dp"
+					android:layout_marginLeft="8dp"
+					android:layout_marginTop="311dp"
+					android:text="@string/mk__string"
+					android:textColor="@color/tk__color"
+					android:textSize="30sp"
+					android:textStyle="bold" />
+
+				<View   android:id="@+id/rectangle_3"
+					android:background="@drawable/rectangle_3_shape"
+					 android:layout_marginStart="75dp"
+					android:layout_marginTop="414dp"
+					android:layout_width="210dp"
+					android:layout_height="33dp" />
+
+				<View   android:id="@+id/rectangle_4"
+					android:background="@drawable/rectangle_4_shape"
+					 android:layout_marginStart="75dp"
+					android:layout_marginTop="472dp"
+					android:layout_width="210dp"
+					android:layout_height="33dp" />
+
+				<TextView android:id="@+id/log_in"
+					android:textStyle="bold"
+					android:textSize="20sp"
+					android:textColor="@color/tk__color"
+					android:layout_marginLeft="151dp"
+					android:layout_marginTop="423dp"
+					android:layout_width="75dp"
+					android:layout_height="22dp"
+					android:text="@string/log_in_string"
+					 />
+
+				<TextView android:id="@+id/sig_in"
+					android:textStyle="bold"
+					android:textSize="20sp"
+					android:textColor="@color/tk__color"
+					android:layout_marginLeft="152dp"
+					android:layout_marginTop="481dp"
+					android:layout_width="68dp"
+					android:layout_height="22dp"
+					android:text="@string/sig_in_string"
+					 />
+
+			</RelativeLayout>
+		</RelativeLayout>
+
+	</ScrollView>
+</HorizontalScrollView>

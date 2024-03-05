@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- android_small___1 strings -->
+
+	<string name="app_name">Page 1</string>
+	<string name="ek_img_content">ExportKit Image</string>
+	<string name="tk__string">TK:</string>
+	<string name="mk__string">MK:</string>
+	<string name="log_in_string">Log in</string>
+	<string name="sig_in_string">sig in</string>
+</resources>
